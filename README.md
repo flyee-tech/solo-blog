@@ -10,6 +10,8 @@ Peiel's Blog
 
 ### 最新
 
+* [我的脑图](https://www.peiel.com/articles/2020/07/21/1595297643872.html)
+* [MySQL使用单个语句对分组进行LIMIT操作](https://www.peiel.com/articles/2020/07/20/1595231626066.html)
 * [LeetCode7-Reverse Integer（整型反转）题解](https://www.peiel.com/articles/2020/07/10/1594374522975.html)
 * [为 Sequel Pro 添加语句格式化功能](https://www.peiel.com/articles/2020/07/10/1594373433242.html)
 * [关于博客迁移的记录](https://www.peiel.com/articles/2020/07/10/1594372897661.html)
@@ -28,8 +30,6 @@ Peiel's Blog
 * [Java NIO相关知识总结](https://www.peiel.com/articles/2020/07/10/1594364685049.html)
 * [OpenResty安装](https://www.peiel.com/articles/2020/07/10/1594364684240.html)
 * [阿里云文件上传Python脚本-自动复制MarkDown语法的图片至粘贴板](https://www.peiel.com/articles/2020/07/10/1594364683443.html)
-* [Linux下命令行编辑相关快捷键](https://www.peiel.com/articles/2020/07/10/1594364683083.html)
-* [Redis-RDB-持久化错误解决](https://www.peiel.com/articles/2020/07/10/1594364682674.html)
 
 ### 热门
 
