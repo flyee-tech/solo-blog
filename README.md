@@ -10,6 +10,7 @@ Peiel's Blog
 
 ### 最新
 
+* [为MySQL分表主键冲突问题设计ID生成器](https://www.peiel.com/articles/2020/07/24/1595575419085.html)
 * [什么是幂定律（幂律分布）？](https://www.peiel.com/articles/2020/07/22/1595400580909.html)
 * [我的脑图](https://www.peiel.com/articles/2020/07/21/1595297643872.html)
 * [MySQL使用单个语句对分组进行LIMIT操作](https://www.peiel.com/articles/2020/07/20/1595231626066.html)
@@ -29,7 +30,6 @@ Peiel's Blog
 * [NIO读取UTF-8格式文件数据丢失解决过程记录](https://www.peiel.com/articles/2020/07/10/1594364687358.html)
 * [Java程序内存占用情况概述](https://www.peiel.com/articles/2020/07/10/1594364686596.html)
 * [Java NIO相关知识总结](https://www.peiel.com/articles/2020/07/10/1594364685049.html)
-* [OpenResty安装](https://www.peiel.com/articles/2020/07/10/1594364684240.html)
 
 ### 热门
 
