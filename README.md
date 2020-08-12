@@ -10,6 +10,7 @@ Peiel 的个人博客
 
 ### 最新
 
+* [MySQL执行报错(1030, 'Got error 28 from storage engine')](https://www.peiel.com/articles/2020/08/11/1597116561256.html)
 * [为MySQL分表主键冲突问题设计ID生成器](https://www.peiel.com/articles/2020/07/24/1595575419085.html)
 * [什么是幂定律（幂律分布）？](https://www.peiel.com/articles/2020/07/22/1595400580909.html)
 * [我的脑图](https://www.peiel.com/articles/2020/07/21/1595297643872.html)
@@ -29,7 +30,6 @@ Peiel 的个人博客
 * [单例模式](https://www.peiel.com/articles/2020/07/10/1594364689358.html)
 * [NIO读取UTF-8格式文件数据丢失解决过程记录](https://www.peiel.com/articles/2020/07/10/1594364687358.html)
 * [Java程序内存占用情况概述](https://www.peiel.com/articles/2020/07/10/1594364686596.html)
-* [Java NIO相关知识总结](https://www.peiel.com/articles/2020/07/10/1594364685049.html)
 
 
 
