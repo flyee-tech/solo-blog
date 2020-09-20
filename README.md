@@ -10,6 +10,7 @@ Peiel 的个人博客
 
 ### 最新
 
+* [LeetCode 9. Palindrome Number](https://www.peiel.com/articles/2020/09/19/1600530979567.html)
 * [LeetCode 8. String to Integer (atoi)](https://www.peiel.com/articles/2020/09/18/1600417791232.html)
 * [MySQL执行报错(1030, 'Got error 28 from storage engine')](https://www.peiel.com/articles/2020/08/11/1597116561256.html)
 * [为MySQL分表主键冲突问题设计ID生成器](https://www.peiel.com/articles/2020/07/24/1595575419085.html)
@@ -29,7 +30,6 @@ Peiel 的个人博客
 * [MacOS编译Nginx1-12-1报错解决](https://www.peiel.com/articles/2020/07/10/1594364690178.html)
 * [Zookeeper序列化机制总结](https://www.peiel.com/articles/2020/07/10/1594364689667.html)
 * [单例模式](https://www.peiel.com/articles/2020/07/10/1594364689358.html)
-* [NIO读取UTF-8格式文件数据丢失解决过程记录](https://www.peiel.com/articles/2020/07/10/1594364687358.html)
 
 
 
